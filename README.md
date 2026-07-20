@@ -8,7 +8,7 @@ Wi-Fi, or any modification to the console's internal firmware.**
 ## What you need
 
 - The console (any firmware; a first-batch broken unit is the target).
-- The **games microSD card** (FAT32) they already use, or any FAT32 card.
+- The **games microSD card** (FAT32) you already use, or any FAT32 card.
 - A computer with an SD reader to drop the script and later read the report.
 - Nothing else. No solder, no ADB, no internet on the console.
 
