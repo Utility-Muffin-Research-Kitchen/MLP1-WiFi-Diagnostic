@@ -1,0 +1,10 @@
+# OPTIONAL: fill in to force a connection test against a specific 2.4 GHz network.
+# Put this file in the SAME folder as WiFi-Diagnostic.sh (Roms/PORTS/).
+# If you leave it out entirely, the diagnostic re-tries whatever network you
+# already saved in the stock Wi-Fi menu — that is usually what you want, because
+# it reproduces the exact failure. Only use this file if nothing is saved yet.
+#
+# 2.4 GHz only (the device has no 5 GHz radio). No quotes, no spaces around '='.
+
+SSID=YourNetworkName
+PSK=YourWiFiPassword
